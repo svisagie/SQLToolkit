@@ -1,9 +1,9 @@
 {
-    "id": "6cf13cc2-b9c7-4164-af9e-1d5a0db47a6b",
+    "id": "a469e945-dfe0-4b13-8712-1d8f065fce94",
     "name": "RunStoredSqlScript",
-    "friendlyName": "Run SQL Stored Procedure",
+    "friendlyName": "MiX Telematics Run SQL Stored Procedure",
     "description": "Allows you to run a SQL Stored Procedure",
-    "author": "Andrew Lackenby",
+    "author": "MiX Telematics",
     "category": "Utility",
     "version": {
         "Major": "2",

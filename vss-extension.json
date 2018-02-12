@@ -1,10 +1,10 @@
 {
     "manifestVersion": 1,
-    "id": "sql-toolkit",
-    "name": "SQL Toolkit",
-    "version": "2.7.20",
-    "publisher": "andrewlackenby",
-    "public": true,
+    "id": "mixt-sql-toolkit",
+    "name": "MiX Telematics SQL Toolkit",
+    "version": "1.0.0.10",
+    "publisher": "MiXTelematicsCSO",
+    "public": false,
 	"categories": [
         "Build and release"
     ],

@@ -1,9 +1,9 @@
 {
-    "id": "a614c885-96bc-42ed-9369-ea36103dd898",
+    "id": "cc5bdc46-f757-4cda-9893-e1d5eaad6964",
     "name": "RunSqlScripts",
-    "friendlyName": "Run Sql Scripts",
+    "friendlyName": "MiX Telematics Run Sql Scripts",
     "description": "Allows you to run SQL Scripts",
-    "author": "Andrew Lackenby",
+    "author": "MiX Telematics",
     "category": "Utility",
     "version": {
         "Major": "2",

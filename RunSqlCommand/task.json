@@ -1,9 +1,9 @@
 {
-    "id": "fda5a2a7-b40f-4f19-a145-f76b8ae00dca",
+    "id": "a87fee27-c101-4a5a-b236-661a390dec86",
     "name": "RunSqlCommand",
-    "friendlyName": "Run SQL Command",
+    "friendlyName": "MiX Telematics Run SQL Command",
     "description": "Allows you to run a SQL Command",
-    "author": "Andrew Lackenby",
+    "author": "MiX Telematics",
     "category": "Utility",
     "version": {
         "Major": "2",

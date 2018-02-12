@@ -1,9 +1,9 @@
 {
-    "id": "a8b696ba-d31e-402f-9815-69a7de733e12",
+    "id": "886b22c0-4600-4df0-98f3-8c3cd16f71c2",
     "name": "SqlBackup",
-    "friendlyName": "Backup SQL Database",
+    "friendlyName": "MiX Telematics Backup SQL Database",
     "description": "Backup a SQL Server database",
-    "author": "Andrew Lackenby",
+    "author": "MiX Telematics",
     "category": "Utility",
     "version": {
         "Major": "2",
